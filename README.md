@@ -98,8 +98,3 @@ docs/
 ## License
 
 MIT
-
-
-git add README.md
-git commit -m "docs: add initial README"
-git push
